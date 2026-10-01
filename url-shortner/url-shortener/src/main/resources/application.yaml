@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: url-shortener
+  threads:
+    virtual:
+      enabled: true
