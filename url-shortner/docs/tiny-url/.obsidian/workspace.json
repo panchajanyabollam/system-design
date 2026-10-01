@@ -11,10 +11,14 @@
             "id": "d5b2fe927e21b63c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -196,8 +200,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5b2fe927e21b63c",
+  "active": "2d82970a889ecfc9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2026-10-01 13.17.02.excalidraw.md",
     "Excalidraw/Drawing 2026-10-01 13.17.01.excalidraw.md",
     "Welcome.md",
